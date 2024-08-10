@@ -1,0 +1,143 @@
+.signup {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .signup .desktop-wrapper {
+    width: 100%;
+    height: 100;
+  }
+  
+  .signup .desktop {
+    height: 879px;
+    background-image: url( bgm.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .signup .overlap-group {
+    position: relative;
+    width: 643px;
+    height: 415px;
+    top: 235px;
+    left: 411px;
+    background-color: #d9d9d92c;
+    border-radius: 93.04px;
+    box-shadow: inset -3.49px 3.49px 3.49px #adadad8b, inset -1.74px 1.74px 1.74px #ffffff8b,
+      inset 3.49px -3.49px 3.49px #ffffff8b, inset 1.74px -1.74px 1.74px #adadad8b;
+    backdrop-filter: blur(31.91px) brightness(100%);
+    -webkit-backdrop-filter: blur(31.91px) brightness(100%);
+  }
+  
+  .signup .text-wrapper {
+    position: absolute;
+    width: 143px;
+    top: 23px;
+    left: 268px;
+    font-family: "Open Sans Hebrew-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 30.4px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .signup .frame {
+    height: 44px;
+    top: 109px;
+    left: 142px;
+    border-radius: 6.95px;
+    position: absolute;
+    width: 395px;
+    background-color: #ffffff;
+    overflow: hidden;
+  }
+  
+  .signup .div {
+    top: 12px;
+    left: 135px;
+    position: absolute;
+    transform: rotate(0.12deg);
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #7b7171;
+    font-size: 19.1px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .signup .perm-identity {
+    position: absolute;
+    width: 49px;
+    height: 44px;
+    top: 0;
+    left: 0;
+  }
+  
+  .signup .frame-2 {
+    height: 44px;
+    top: 221px;
+    left: 142px;
+    border-radius: 5.21px;
+    position: absolute;
+    width: 395px;
+    background-color: #ffffff;
+    overflow: hidden;
+  }
+  
+  .signup .vector {
+    width: 25px;
+    top: 8px;
+    left: 9px;
+    position: absolute;
+    height: 28px;
+  }
+  
+  .signup .text-wrapper-2 {
+    position: absolute;
+    top: 9px;
+    left: 136px;
+    transform: rotate(0.12deg);
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #7b7171;
+    font-size: 19.1px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .signup .frame-3 {
+    height: 38px;
+    top: 334px;
+    left: 144px;
+    border-radius: 5.21px;
+    position: absolute;
+    width: 395px;
+    background-color: #ffffff;
+    overflow: hidden;
+  }
+  
+  .signup .img {
+    width: 21px;
+    top: 5px;
+    left: 13px;
+    position: absolute;
+    height: 28px;
+  }
+  
+  .signup .text-wrapper-3 {
+    top: 6px;
+    left: 126px;
+    position: absolute;
+    transform: rotate(0.12deg);
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #7b7171;
+    font-size: 19.1px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
